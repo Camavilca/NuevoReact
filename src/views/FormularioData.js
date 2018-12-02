@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 // import FormularioDocs from '../components/subir_docs/FormularioDocs'
-import FormularioDocs from '../components/subir_docs/probando'
+import FormularioDocs from '../subir_docs/probando'
 import Nav from '../views/Nav'
 
 class FormData extends Component{
